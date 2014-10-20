@@ -1,4 +1,4 @@
 ejercicioIV
 ===========
 
-ejercicio6 de IV
+ejercicio6 de IV, modificado PARTE 2 !!
